@@ -1,4 +1,4 @@
-package com.example.springbootneo4j;
+package com.pm430.springbootneo4j;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

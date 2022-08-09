@@ -1,4 +1,4 @@
-package com.example.springbootneo4j.account;
+package com.pm430.springbootneo4j.account;
 
 import org.springframework.data.neo4j.repository.Neo4jRepository;
 

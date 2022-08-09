@@ -1,9 +1,9 @@
-package com.example.springbootneo4j;
+package com.pm430.springbootneo4j;
 
 
-import com.example.springbootneo4j.account.Account;
-import com.example.springbootneo4j.account.AccountRepository;
-import com.example.springbootneo4j.account.Role;
+import com.pm430.springbootneo4j.account.Account;
+import com.pm430.springbootneo4j.account.AccountRepository;
+import com.pm430.springbootneo4j.account.Role;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.ApplicationArguments;
 import org.springframework.boot.ApplicationRunner;
